@@ -1,0 +1,137 @@
+/* Mobile */
+@media (max-width:575px){
+    body{
+        text-align: center;
+    }
+    .title-section{
+        font-size: 52px;
+    }
+    .text{
+        min-height: 360px;
+        text-align: center;
+    }
+    .button-scroll{
+        left: 10px;
+    }
+    /* section_2 */
+    .box{
+        margin-bottom: 20px;
+    }
+    /* section_3 */
+    .img-hand{
+        min-height: 230px;
+    }
+    .icon-section3{
+        display: flex;
+    }
+    .learn-more{
+        margin-bottom: 40px;
+    }
+    /* section_4 */
+    .img-content4{
+        width: 630px;
+    }
+    .img-content4{
+        width: 70%;
+    }
+    /* section_5 */
+    .content-5{
+        min-height: 360px;
+    }
+    .img-content5{
+        width: 100%;
+    }
+    .btn-content5{
+        width: 100%;
+    }
+    /* section_6 */
+    .img-book{
+        width: 60%;
+    }
+    /* carosal */
+    .persent{
+        font-size:20px;
+        margin-right: 50px;
+    }
+    .using{
+        font-size: 16px;
+        margin-right: 9px;
+    }
+    /* footer */
+    .link{
+        padding-right: 5px;
+        font-size: 15px;
+    }
+    .logo-footer{
+        text-align: center;
+        justify-content: space-around;
+    }
+}
+@media (min-width: 575px) and (max-width: 991.98px) {
+    /* section_1 */
+    .title-section{
+        font-size: 40px;
+    }
+    /* section_3 */
+    .box{
+        margin-top: 20px;
+    }
+    .icon-section3{
+        width: 30%;
+    }
+    .title-info3{
+        font-size: 30px;
+        padding-top: 5px;
+    }
+    .text{
+        min-height: 500px;
+    }
+    .icon-section3{
+        display: flex;
+    }
+    /* section_4 */
+    .img-content4{
+        width: 100%;
+        margin-top: 150px;
+    }
+    /* section_6 */
+    .line-content{
+        margin-top: 10px;
+    }
+    /* section_7 */
+    .img-content5 {
+        width: 506px;
+        margin-top: 140px;
+    }
+    .title_5 {
+        font-size: 30px;
+    }
+    .decr_title5{
+        font-size: 15px;
+    }
+    .btn-content5{
+        width: 50%;
+    }
+    /* section_8 */
+    .question{
+        font-size: 30px;
+    }
+    .answer{
+        margin-bottom: 15px;
+        margin-top: 2px;
+    }
+    .pink-qustion{
+        font-size: 15px;
+    }
+    /* footer */
+    .link{
+        font-size: 14px;
+        padding-right: 2px;
+    }
+    .button-scroll{
+        left: 10px;
+    }
+    .img-book{
+        width: 70%;
+    }
+}
